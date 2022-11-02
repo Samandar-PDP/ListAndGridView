@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteWithSharedPref</string>
+    <string name="classify">Classify transaction</string>
+    <string name="th">Classify this transaction into a\nparticular category</string>
+    <string name="general">General</string>
+</resources>
